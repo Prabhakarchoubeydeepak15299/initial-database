@@ -1,0 +1,173 @@
+.head {
+    height: 140px;
+    width: 1222.4px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#image {
+    height: 70.5px;
+    width: 100px;
+    margin: 20px;
+}
+
+#image:hover {
+    background-color: blue;
+}
+
+#para {
+    font-size: 24px;
+    color: #393464;
+    font-weight: bolder;
+    margin: 30px;
+}
+
+#para:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+
+#button {
+    font-size: 14px;
+    height: 36.5px;
+    width: 77.53px;
+    background-color: #000000;
+    color: #FFFFFF;
+    border-radius: 5px;
+    padding: 6px 8px;
+    margin: 30px;
+}
+
+#button:hover {
+    background-color: red;
+}
+
+.maincontainer {
+    height: 2047.5px;
+    width: 1222.4px;
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.minicontainer {
+    height: 239px;
+    width: 250px;
+    background-color: #FFFFFF;
+    border-radius: 150px;
+    margin-top: 30px;
+    margin-right: 30x;
+    background-image: url("https://uemcrp.netlify.app/static/media/persona.4a13f8449c6d28b7444e.jpg");
+    background-size: cover;
+}
+
+#centerimage {
+    margin: 60px;
+}
+
+.container1 {
+    height: 327.99px;
+    width: 892.4px;
+    background-color: #FFFFFF;
+    margin: 30px;
+
+    border-radius: 5px;
+}
+
+p {
+    font-size: 16px;
+    color: #000000;
+    font-weight: bolder;
+    margin: 20px;
+}
+
+.container2 {
+    height: 815px;
+    width: 1182px;
+    background-color: #FFFFFF;
+    margin: 20px;
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container3 {
+    height: 344px;
+    width: 1182.4px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.container4 {
+    height: 450px;
+    width: 1182px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.box1 {
+    height: 140px;
+    width: 394px;
+    margin: 30px;
+}
+
+#one {
+    margin-left: 60px;
+    margin-top: 40px;
+}
+
+#para1 {
+    font-weight: bolder;
+    margin: 10px;
+}
+
+#parastar {
+    font-size: 18px;
+    color: #000000DE;
+    text-align: center;
+    font-weight: bolder;
+}
+
+#parastarone {
+    font-size: 19px;
+    font-style: sans-serif;
+    font-weight: lighter;
+}
+
+#parastarone {
+    font-size: 19px;
+    font-style: sans-serif;
+    font-weight: lighter;
+}
+
+#parastarone {
+    font-size: 19px;
+    font-style: sans-serif;
+    font-weight: lighter;
+}
+
+#parastartwo {
+    font-size: 19px;
+    font-style: sans-serif;
+    font-weight: lighter;
+}
+
+#parastarthree {
+    font-size: 19px;
+    font-style: sans-serif;
+    font-weight: lighter;
+}
+
+#parastarfour {
+    font-size: 19px;
+    font-style: sans-serif;
+    font-weight: lighter;
+}
+
+#parastarfive {
+    font-size: 19px;
+    font-style: sans-serif;
+    font-weight: lighter;
+}
